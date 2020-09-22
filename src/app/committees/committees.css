@@ -1,0 +1,53 @@
+.breadcrumbs{
+  background-color: rgb(16, 16, 16);
+  font-weight: bold;
+}
+.breadcrumbs h2{
+  text-shadow: 2px 2px 10px rgb(146, 120, 240);
+}
+/*--------------------------------------------------------------
+# Trainers
+--------------------------------------------------------------*/
+.trainers .member {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.trainers .member img {
+  margin: -1px -1px 30px -1px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+}
+
+.trainers .member .member-content {
+  padding: 0 20px 30px 20px;
+}
+
+.trainers .member h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.trainers .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+
+.trainers .member p {
+  padding-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: #cfcdcd;
+  font-weight: bold;
+}
+
+.trainers .member .social {
+  margin-top: 15px;
+}
+
+.trainers .member .social a {
+  color: #7e9486;
+  transition: 0.3s;
+}

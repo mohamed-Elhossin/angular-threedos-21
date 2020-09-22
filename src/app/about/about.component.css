@@ -1,0 +1,21 @@
+div
+{color: white !important;}
+
+.course-item i{
+
+  color: white;
+  font-size: 70px;
+  text-shadow: 0 0 10px #9A4BF7, 0 0 30px #9A4BF7;
+}
+.course-item{
+  border: 0;
+  text-align: center;
+}
+
+.breadcrumbs{
+  background-color: rgb(16, 16, 16);
+  font-weight: bold;
+}
+.breadcrumbs h2{
+  text-shadow: 0px 0px 10px rgb(146, 120, 240);
+}

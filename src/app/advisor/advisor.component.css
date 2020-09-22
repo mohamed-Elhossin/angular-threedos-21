@@ -1,0 +1,89 @@
+#about {
+  background: linear-gradient(95deg, rgb(17, 17, 17) 70%, rgb(94, 21, 97));
+  margin-top: 40px;
+}
+
+#about p {
+  font-size: 25px;
+}
+
+#about .section-title {
+  padding: 10px 0px !important;
+}
+
+#about h3 {
+  font-size: 20px;
+}
+
+/*--------------------------------------------------------------
+# Trainers
+--------------------------------------------------------------*/
+
+.trainers .member {
+  text-align: center;
+  margin-bottom: 0px !important;
+}
+
+.trainers .member img {
+  margin: -1px -1px 30px -1px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+
+}
+@media (min-width:750px){
+  .trainers .member img {
+    width: 300px;
+  }
+}
+.trainers .member .member-content {
+  padding: 0 20px 30px 20px;
+}
+
+.trainers .member h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.trainers .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+
+.trainers .member p {
+  padding-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: #cfcdcd;
+  font-weight: bold;
+}
+@media (min-width:750px){
+  .trainers .member .head {
+ padding: 0px 300px;
+  }
+}
+
+.trainers .member .social {
+  margin-top: 15px;
+}
+
+.trainers .member .social a {
+  color: #7e9486;
+  transition: 0.3s;
+}
+
+@media (max-width:750px){
+
+  #trainers .hr{
+    width: 50%;
+    height: 1px;
+    display: inline;
+    background-color: rgb(235, 235, 235);
+    margin: 0px auto 40px;
+    border-radius: 50%;
+  }
+
+}
+
+

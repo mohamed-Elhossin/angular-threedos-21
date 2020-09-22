@@ -1,0 +1,34 @@
+.events {
+  margin: 80px 20px;
+}
+
+.card {
+  background-color: rgba(16, 16, 16,0.4);
+}
+.card .HRsub{
+border: 1px dotted white;
+}
+.card .HRtotal{
+  border: 1px solid white;
+  }
+.card button {
+  text-align: center;
+  color: white;
+  background-color: rgba(12, 12, 12,0.7);
+  font-weight: bold;
+  transition: all 0.5s;
+}
+.card button:hover{
+  transform: scale(1.1112,1.1112);
+}
+
+.card i {
+  margin: 0px 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.accordion {
+  width: 100%;
+}
